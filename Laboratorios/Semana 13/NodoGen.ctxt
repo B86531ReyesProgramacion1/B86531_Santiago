@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NodoGen
+comment0.text=\r\n\ Clase\ NodoGen,\ representacion\ de\ lista\ enlazadas\ con\ nodos\ genericos\r\n\ @author\tProgramacion\ I\r\n\ @version\t2019/Nov/05\r\n\ \r\n
+comment1.params=valor
+comment1.target=NodoGen(java.lang.Object)
+comment1.text=\r\n\ Constructor\ de\ un\ nodo\ de\ la\ lista\r\n\ @param\tint\ valor\ del\ nodo\ a\ crear\r\n
+comment2.params=
+comment2.target=java.lang.Object\ getValor()
+comment2.text=\r\n\ Metodo\ para\ obtener\ el\ valor\ del\ nodo\r\n
+comment3.params=
+comment3.target=NodoGen\ getSiguiente()
+comment3.text=\r\n\ Metodo\ para\ obtener\ el\ siguiente\ elemento\ de\ la\ lista\r\n
+comment4.params=valor
+comment4.target=void\ setValor(java.lang.Object)
+comment4.text=\r\n\ Metodo\ para\ cambiar\ el\ valor\ de\ nodo\r\n\ @param\tint\ nuevo\ valor\ del\ nodo\r\n
+comment5.params=siguiente
+comment5.target=void\ setSiguiente(NodoGen)
+comment5.text=\r\n\ Metodo\ para\ cambiar\ el\ valor\ del\ siguiente\ nodo\ de\ la\ lista\r\n\ @param\tNodo\tvalor\ del\ nuevo\ siguiente\ nodo\ en\ la\ lista\r\n
+numComments=6
